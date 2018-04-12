@@ -3,9 +3,7 @@
 }
 
 p {
-    margin: 20px;
-    margin-bottom: 30px;
-
+    margin: 20px 0 30px;
 }
 
 html {
@@ -28,14 +26,14 @@ h2 {
     font-size: 1.5em;
     font-weight: bold;
     color: #4aaaa5;
-    margin: 0 auto 20px;
+    margin: -16px auto 20px;
 }
 
 .main {
     width: 960px;
     background-color: #ffffff;
     border: 2px solid #dddddd;
-    padding: 30px;
+    padding: 40px;
     line-height: 2.0;
     margin: 0 auto;
     overflow: auto;
@@ -59,7 +57,7 @@ h2 {
     width: 100%;
     overflow: auto;
     margin: 0 auto 40px;
-    border-bottom: 2px solid #dddddd;
+    border-bottom: 2px solid #cccccc;
 }
 
 .headerLimiter {
@@ -140,13 +138,13 @@ input[type=submit] {
 #footer {
     background-color: #666666;
     font-size: 14px;
-    color: #ffffff;
+    color: #cccccc;
     width: 100%;
     position: absolute;
     bottom: 0;
     text-align: center;
     border-top: 6px solid #4aaaa5;
-    padding-top: 40px;
+    padding: 36px 0 4px;
 }
 
 /* Colors
